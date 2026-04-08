@@ -1,6 +1,0 @@
-------------------------------------------
--- HUNGZIZC AIM PROXY --
-Hungzizc: discord.gg/6WJ2tZjmw
-Vui lòng tắt Proxy và không bật lại
-------------------------------------------
-{"item_id": 1001, "count": 9999} 
